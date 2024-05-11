@@ -1,0 +1,30 @@
+body{
+    background-color:rgba(197, 153, 194, 0.589) ;
+ }
+.copy_right_footer {
+
+    position: fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500; 
+    font-style: italic;
+    font-size:xx-large;
+}
+#camera{
+    width:500px;
+    height:400px;
+    border-color: black;
+}
+
+img{
+    border-color: black;
+    padding-top: 20px;
+    box-shadow: 0px 6px 8px black;
+}
+img:hover{
+    border-radius: 140px;
+}
